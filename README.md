@@ -4,4 +4,10 @@ This is a project for my Internship based on Azure static Webapps
 https://zealous-ocean-0316a3910.2.azurestaticapps.net
 #Screen Shots
 #Home
-![Home](https://user-images.githubusercontent.com/113173639/214536620-6d426f1d-8ebe-4717-a2fb-af44e9ce781d.png)
+![Home](https://user-images.githubusercontent.com/113173639/214544877-0007506e-11e2-42b6-8c97-982de3c55f0b.png)
+#about
+![About](https://user-images.githubusercontent.com/113173639/214545068-61ac9995-97f0-48e0-8a60-4425e46c665b.png)
+#Services
+![Services](https://user-images.githubusercontent.com/113173639/214545271-087bfbac-19b7-42b5-875a-293ac1749225.png)
+#contact
+![Contact](https://user-images.githubusercontent.com/113173639/214545534-9d6853e8-16fc-4876-995b-382f3600aef0.png)
